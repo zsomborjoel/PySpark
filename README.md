@@ -1,2 +1,5 @@
 # PySpark-Basics
-Learning the basic functionality of the Spark Python API on dataframes
+
+* Spark functions and complex aggregations
+* Streaming csv data
+* Using relational databases
